@@ -1,9 +1,0 @@
-{
-  "@context": "http://schema.org",
-  "@type": "Recipe",
-  "name": "Kartoffel-Spinat",
-  "recipeIngredient": [
-    "50g Kartoffeln",
-    "50g Spinat"
-  ]
-}
